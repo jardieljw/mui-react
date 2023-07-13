@@ -1,0 +1,27 @@
+#name-label, #email-label, #password-label, #password2-label {
+    color: rgba(94, 32, 117, 1);
+}
+
+/*'& .MuiInputBase-root': {
+                  boxSizing: 'border-box',
+                  border: 'solid #5B6DCD 10px',
+                  transition: 'border 2s',
+                  '&:hover': {border: 'solid yellow 10px'},
+                  borderRadius: '50px',
+                  position: 'initial',
+                },
+                '& .MuiOutlinedInput-root': {
+                  outline: 'green solid 10px',
+                  borderRadius: '50px',
+                },
+                '& .MuiTextField-root': {
+                  outline: 'blue solid 100px',
+                  border: 'solid red 10px',
+                  borderRadius: '50px',
+                },
+                */
+
+                /*notchedOutline
+                //MuiOutlinedInput-notchedOutline
+                //css-md26zr-MuiInputBase-root-MuiOutlinedInput-root
+                //MuiFormControl-root*/

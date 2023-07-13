@@ -1,0 +1,362 @@
+.registro-instaclone {
+    background-color: #171519;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .registro-instaclone .overlap-wrapper {
+    background-color: #171519;
+    border: 1px none;
+    height: 1024px;
+    overflow: hidden;
+    width: 1440px;
+  }
+  
+  .registro-instaclone .overlap {
+    height: 1485px;
+    left: -225px;
+    position: relative;
+    top: -143px;
+    width: 1545px;
+  }
+  
+  .registro-instaclone .rectangle {
+    background-color: #fefcff;
+    height: 800px;
+    left: 345px;
+    position: absolute;
+    top: 255px;
+    width: 1200px;
+  }
+  
+  .registro-instaclone .div {
+    background: linear-gradient(
+      180deg,
+      rgb(94, 32, 117) 0%,
+      rgb(117, 32, 108.13) 99.99%,
+      rgb(94, 32, 117) 100%,
+      rgb(2, 0, 36) 100%
+    );
+    border-radius: 40px 0px 0px 40px;
+    height: 800px;
+    left: 345px;
+    position: absolute;
+    top: 255px;
+    width: 750px;
+  }
+  
+  .registro-instaclone .img {
+    height: 800px;
+    left: 346px;
+    position: absolute;
+    top: 255px;
+    transform: rotate(-180deg);
+    width: 750px;
+  }
+  
+  .registro-instaclone .line {
+    height: 800px;
+    left: 1095px;
+    position: absolute;
+    top: 255px;
+    transform: rotate(-180deg);
+    width: 4px;
+  }
+  
+  .registro-instaclone .rectangle-2 {
+    background-color: #efefef;
+    border-radius: 35px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 50px;
+    left: 1158px;
+    position: absolute;
+    top: 845px;
+    width: 300px;
+  }
+  
+  .registro-instaclone .logo-completa {
+    height: 1px;
+    left: 1242px;
+    object-fit: cover;
+    position: absolute;
+    top: 700px;
+    transform: rotate(-180deg);
+    width: 2px;
+  }
+  
+  .registro-instaclone .text-wrapper {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1392px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 897px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .text-wrapper-2 {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1229px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 288px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .group {
+    height: 50px;
+    left: 1183px;
+    position: absolute;
+    top: 323px;
+    width: 252px;
+  }
+  
+  .registro-instaclone .overlap-group {
+    background-color: #5e2075;
+    border-radius: 35px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 50px;
+    position: relative;
+    width: 250px;
+  }
+  
+  .registro-instaclone .text-wrapper-3 {
+    color: #fefcff;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 68px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 13px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .rectangle-3 {
+    background-color: #efefef;
+    border-radius: 35px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 50px;
+    left: 1158px;
+    position: absolute;
+    top: 625px;
+    width: 300px;
+  }
+  
+  .registro-instaclone .text-wrapper-4 {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1390px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 677px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .rectangle-4 {
+    background-color: #efefef;
+    border-radius: 35px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 50px;
+    left: 1158px;
+    position: absolute;
+    top: 515px;
+    width: 300px;
+  }
+  
+  .registro-instaclone .text-wrapper-5 {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1297px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 567px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .rectangle-5 {
+    background-color: #efefef;
+    border-radius: 35px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 50px;
+    left: 1158px;
+    position: absolute;
+    top: 735px;
+    width: 300px;
+  }
+  
+  .registro-instaclone .text-wrapper-6 {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 1390px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 787px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .h-1 {
+    color: #5e2075;
+    font-family: "Roboto-ExtraBold", Helvetica;
+    font-size: 48px;
+    font-weight: 800;
+    left: 1213px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 969px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .venha-fazer-parte-da {
+    color: #fefcff;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 48px;
+    font-weight: 400;
+    left: 435px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 391px;
+    transform: rotate(180deg);
+  }
+  
+  .registro-instaclone .group-2 {
+    height: 76px;
+    left: 1158px;
+    position: absolute;
+    top: 404px;
+    width: 306px;
+  }
+  
+  .registro-instaclone .overlap-2 {
+    background-color: #efefef;
+    border-radius: 35px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 26px;
+    width: 145px;
+  }
+  
+  .registro-instaclone .text-wrapper-7 {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 8px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .polygon {
+    height: 18px;
+    left: 113px;
+    position: absolute;
+    top: 19px;
+    width: 22px;
+  }
+  
+  .registro-instaclone .text-wrapper-8 {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 244px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .rectangle-6 {
+    background-color: #efefef;
+    border-radius: 35px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 50px;
+    left: 155px;
+    position: absolute;
+    top: 26px;
+    width: 145px;
+  }
+  
+  .registro-instaclone .text-wrapper-9 {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 59px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .text-wrapper-10 {
+    color: #5e2075;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 1283px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 749px;
+    transform: rotate(180deg);
+    white-space: nowrap;
+  }
+  
+  .registro-instaclone .frame {
+    align-items: flex-start;
+    display: flex;
+    gap: 10px;
+    left: 0;
+    padding: 10px;
+    position: absolute;
+    top: 0;
+    width: fit-content;
+  }
+  
+  .registro-instaclone .logo-completa-sem {
+    height: 1024px;
+    min-width: 1250px;
+    object-fit: cover;
+    position: relative;
+    transform: rotate(-180deg);
+  }  
